@@ -43,3 +43,9 @@ sudo motion
 ```
 http://ip:8081
 ```
+
+### save to mp4
+
+```
+curl -o v.mp4 http://ip:8081
+```
