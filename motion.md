@@ -1,3 +1,14 @@
+### change source
+
+```
+sudo nano /etc/apt/sources.list
+```
+
+```
+deb http://mirrors.aliyun.com/raspbian/raspbian/ wheezy main non-free contrib
+deb-src http://mirrors.aliyun.com/raspbian/raspbian/ wheezy main non-free contrib
+```
+
 ### install
 
 ```
