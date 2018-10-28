@@ -27,14 +27,14 @@ sudo nano /etc/default/motion
 start_motion_daemon = yes
 ```
 
-2.stream_localhost off
+2.webcam_localhost off
 
 ```
 sudo nano /etc/motion/motion.conf
 ```
 
 ```
-stream_localhost off
+webcam_localhost off
 ```
 
 ### start
